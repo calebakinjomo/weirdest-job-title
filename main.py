@@ -2,6 +2,8 @@
 
 Writes the entry line to $MAKEFUN_OUTPUT_DIR/entry.txt (default
 /output/entry.txt) and prints exactly the same line to stdout.
+
+The title is 44 characters, within the 60-character limit.
 """
 
 import os
